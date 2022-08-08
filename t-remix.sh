@@ -1,14 +1,14 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
-#        PROJECT: T-Remix            #
-#        Author: ARIJ ARMAN          #
-#  email: mrxanonymous633@gmailcom   #
+#        PROJECT: BLACK HAT            #
+#        Author: @MEHRAJ          #
+#  email: blackhat633@gmailcom   #
 ######################################
-echo -e "\e[32m[*]\e[34m WELCOME TO ARIJ ARMANS TOOLS  \e[m "
+echo -e "\e[32m[*]\e[34m WELCOME TO BLACK  HATTOOL'S  \e[m "
 echo
 #Installing the following packages to install T-Remix
 echo " "
-echo -e "\e[32m[*]\e[34m Installing T-Remix \e[m "
+echo -e "\e[32m[*]\e[34m Installing MEHRAJ \e[m "
 echo
 #storage permission
 termux-setup-storage -y && rm -rf T-Remix-master
@@ -38,7 +38,7 @@ echo " "
 echo " "
 echo "
 
-        WELCOME TO ARIJ ARMAN TOOLS_-^^TECH KNOW LINUX^^-_ SUBSCRIBE YOUTUBE CHANNEL
+        WELCOME TO BLACK HAT TOOLS_-^^TECH KNOW LINUX^^-_ SUBSCRIBE YOUTUBE CHANNEL
     
                 ████████╗      ██████╗ ███████╗███╗   ███╗██╗██╗  ██╗
                 ╚══██╔══╝      ██╔══██╗██╔════╝████╗ ████║██║╚██╗██╔╝
@@ -51,7 +51,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ ARIJ ARMAN ♡¸.•* ] ───────────────>            
+       <─────────────── [ Re-Coded by =*•.¸♡ BLACK HAT ♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
@@ -131,7 +131,7 @@ echo " "
 echo -e "\033[1;32m﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m  "   
 echo -e "\033[1;33m[*]Please wait \e[m "
 echo -e "\033[1;33m[*]checking installtion \e[m "
-echo -e "\033[1;33m[*]system ok -- CHECKED BY ARIJ ARMAN\e[m "
+echo -e "\033[1;33m[*]system ok -- CHECKED BY MEHRAJ\e[m "
 echo -e "\033[1;33m[*]setting termux as a real hacker \e[m"
 echo -e "\033[1;33m[*]Please SUBSCRIBE TECH KNOW LINUX channel for hacking tutorial! \e[m "
 echo FINISHED !
@@ -177,7 +177,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ ARIJ ARMAN ♡¸.•* ] ───────────────>              
+        <─────────────── [Re-Coded by *•.¸♡ BLACK HAT♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
